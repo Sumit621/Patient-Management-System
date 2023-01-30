@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553537402 source:g:\code blocks\projects\patient appointment system\projectmain.c
+	<stdio.h>
+	<stdlib.h>
+	"UDfuncs.h"
+	<string.h>
+
+1553538501 g:\code blocks\projects\patient appointment system\udfuncs.h
+	<stdio.h>
+	<string.h>
+
